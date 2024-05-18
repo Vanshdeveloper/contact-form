@@ -277,7 +277,7 @@ main form button:hover {
 main .success-msg {
     display: none;
     top: 0;
-    margin: 20px 0 0 0;
+    margin: 20px 20px;
     position: absolute;
     background: var(--DarkGrey);
     padding: 25px 20px;
